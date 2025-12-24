@@ -2,7 +2,7 @@
 
 ## ʕ•ᴥ•ʔ BearOrders.com
 
-[bearorders.com](https://bearorders.com)
+[BearOrders.com](https://bearorders.com)
 
 A simple, no-nonsense, super-fast B2B ordering platform. Embrace the _bear necessities_ and get your wholesale store set-up in minutes.
 
@@ -15,7 +15,7 @@ A simple, no-nonsense, super-fast B2B ordering platform. Embrace the _bear neces
 
 ## Contributing
 
-BearOrders is being actively developed and is not yet open to contributions. As soon as the first stable version is released, contributions will be welcome.
+BearOrders is being actively developed and is not yet open to contributors. As soon as the first stable version is released, contributions will be welcome.
 
 ## Feature Requests
 
