@@ -23,6 +23,6 @@ Please email feature requests and/or ideas to [productstripes+bearorders@gmail.c
 
 ## Links
 
-- [BearOrders.com](https://bearorders.com/)
+- [BearOrders.com](https://bearorders.com/?utm_source=github)
 - [GitHub](https://github.com/ProductStripes/BearOrders)
 - [Blog](https://bearorders.bearblog.dev/)
