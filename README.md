@@ -7,9 +7,10 @@
 A simple, no-nonsense, super-fast B2B ordering platform. Embrace the _bear necessities_ and get your wholesale store set-up in minutes.
 
 - Simple, intuitive design
-- Custom products & pricing
+- Import your products in seconds
+- Parent products & variants
 - Effortless reordering
-- Lightning fast, no ads or bloat
+- Lightning fast - no ads or bloat
 - Looks great on all devices
 - Open-source and free to use
 
