@@ -2,7 +2,7 @@
 
 ## ʕ•ᴥ•ʔ BearOrders.com
 
-[BearOrders.com](https://bearorders.com)
+[BearOrders.com](https://bearorders.com/?utm_source=github)
 
 A simple, no-nonsense, super-fast B2B ordering platform. Embrace the _bear necessities_ and get your wholesale store set-up in minutes.
 
